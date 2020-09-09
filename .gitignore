@@ -1,0 +1,7 @@
+# Environment directories
+.ipynb_checkpoints/
+.venv/
+.vscode/
+
+# NLTK Data Files
+nltk_data/
